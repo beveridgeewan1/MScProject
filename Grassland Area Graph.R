@@ -1,3 +1,5 @@
+## Produces the graph seen in Figure 4 of the report
+
 year <- c(1985,1995,2005)
 y1 <- c(64220, 61776, 63252)
 y2 <- c(10066, 10113, 10562)
